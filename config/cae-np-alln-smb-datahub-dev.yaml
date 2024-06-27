@@ -1,0 +1,113 @@
+### cae-np-alln-smb-datahub-dev.yaml is of the format cae-np-<location>-<namespace>-<prod/stage/dev>.yaml
+
+###Contents:
+#Replace smb-datahub-api with the app name, preferably in the format cecid-appname.
+#Replace 7c6343d3cc972449336ef7b2b8c88a8cb434fbcb with the software ID from CoDE. It is just used for labels afaik, so if not feasible, can be skipped.
+
+---
+# App deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: 'smb-datahub-api'
+  namespace: 'smb-datahub'
+  labels:
+    softwareId: '7c6343d3cc972449336ef7b2b8c88a8cb434fbcb'
+    softwareName: 'smb-datahub-api'
+spec:
+  selector:
+    matchLabels:
+      app: 'smb-datahub-api'
+  replicas: 1
+  template:
+    metadata:
+      namespace: 'smb-datahub'
+      labels:
+        app: 'smb-datahub-api'
+        environment: 'dev'
+        softwareId: '7c6343d3cc972449336ef7b2b8c88a8cb434fbcb'
+        softwareName: 'smb-datahub-api'
+    spec:
+      containers:
+      - image: "containers.cisco.com/proseide/smb-datahub-api"
+        imagePullPolicy: Always
+        name: 'smb-datahub-api'
+        ports:
+        - containerPort: 5000
+        resources:
+          limits:
+            cpu: 125m
+            memory: 256Mi
+          requests:
+            cpu: 125m
+            memory: 128Mi
+      imagePullSecrets:
+      - name: proseide-cdconsole-bot-pull-secret
+
+---
+# App service exposing port 5000
+apiVersion: v1
+kind: Service
+metadata:
+  name: 'smb-datahub-api-service'
+  namespace: 'smb-datahub'
+  labels:
+    softwareId: '7c6343d3cc972449336ef7b2b8c88a8cb434fbcb'
+    softwareName: 'smb-datahub-api'
+spec:
+  ports:
+    - name: "web"
+      protocol: "TCP"
+      port: 5000
+  selector:
+      app: 'smb-datahub-api'
+  type: ClusterIP
+
+---
+# Ingress pointing to app port 5000
+apiVersion: route.openshift.io/v1
+kind: Route
+metadata:
+  name: smb-datahub-api-route
+  namespace: smb-datahub
+  annotations:
+    haproxy.router.openshift.io/rewrite-target: /  
+spec:
+  host: smb-datahub.cisco.com
+  path: 
+  to:
+    kind: Service
+    name: smb-datahub-api-service
+  tls:
+    termination: edge
+  port:
+    targetPort: web
+
+
+---
+apiVersion: cae.cisco.com/v1
+kind: SSOAuthConfig
+metadata:
+  name: smb-datahub.cisco.com
+  namespace: smb-datahub
+spec:
+  contexts:
+  - context: /
+    contextMatch: prefix
+    policyType: web
+  policy:
+    web:
+      allow:
+      - paths:
+        - path: /
+          pathMatch: prefix
+        when:
+        - kind: userId
+          values:
+          - '*'
+  provider:
+    cors: platform
+    idp: duo
+    sso: platform
+      
+---    

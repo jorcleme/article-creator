@@ -1,0 +1,114 @@
+[
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/General/Beginner_How_to_Download_Upgrade_firmware.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/kmgmt-1363-MSTP-Best-Practices-published.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5429-cisco-sx350-series-fully-managed-switches-product-specificat.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5417-get-to-know-the-sx350-series-fully-managed-switches.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/1238-tz-log-into-the-gui-of-a-switch.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5261-configure-link-flap-prevention-on-an-sx350-series-managed-sw.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/Cisco-Business-Switching/kmgmt-2257-configure-ipv4-static-routes-settings-on-a-switch-through-th.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/KMGMT-1527-How-to-import-certificate-on-350-and-550-series-switches.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/Creating_a_text_file_to_adjust_IP_settings_on_a_switch.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-stackable-managed-switches/sntp-cli-switch-sx300-sx350.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5273-configure-acl-on-an-sx350-series-managed-switch-using-the-ac.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5263-view-syslog-information-on-an-sx350-series-managed-switch.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/Cisco-Business-Switching/kmgmt3607-disabling-http-https-services-in-switches.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb993-view-the-link-layer-discovery-protocol-lldp-local-informatio.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/Cisco-Business-Switching/kmgmt-2331-glossary-of-non-bias-language.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/Creating-a-text-file-to-adjust-IP-settings-on-a-switch.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/kmgmt-1900-product-decoder-ring-Switch.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/General/Best-practices-for-setting-a-static-IP-addresses-in-Cisco-Small-Business.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5292-igmp-snooping-on-the-sg350-and-sg550.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5718-how-to-display-qos-queue-statistics-on-a-switch.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5744-copy-or-duplicate-configuration-files-on-a-switch.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5310-how-to-change-the-language-of-the-switch-web-based-utility.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/kmgmt2932-How-to-Diagnose-Link-Flapping-On-A-Switch.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/kmgmt-2641-Smartport-Best-practices.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/kmgmt-2125-identify-disable-smartports.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/1526-Tips-to-Keep-the-ARP-Table-Available-for-DHCP-IP-Addressing.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5275-configure-log-aggregation-settings-on-an-sx350-series-manage.html",
+        "family": "switches-350-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5267-generate-tech-support-information-on-an-sx350-series-managed.html",
+        "family": "switches-350-family"
+    }
+]

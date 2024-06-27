@@ -1,0 +1,1054 @@
+[
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5557-configure-the-internet-protocol-ip-address-settings-on-a-swi.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5237-chain-and-ring-topologies-on-the-sg550xg-and-sg350xg-switche.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5322-auto-image-update-for-sg350xg-and-sg550xg-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5249-auto-numbering-on-the-sg550xg-and-sg350xg-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/cloud-and-systems-management/cisco-small-business-findit-network-discovery-utility/smb5250-network-discovery-and-management-via-findit.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb5094-configure-port-settings-to-optimize-traffic-flow-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5555-configure-stack-settings-on-a-switch-through-the-command-lin.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/Cisco-Business-Switching/kmgmt-2257-configure-ipv4-static-routes-settings-on-a-switch-through-th.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/smb5085-rebooting-and-resetting-to-factory-defaults-on-the-sg550xg-a.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb2580-configure-mac-based-access-control-list-acl-and-access-contr.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5411-configure-port-to-virtual-local-area-network-vlan-settings-o.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5327-configure-remote-switch-port-analyzer-rspan-settings-on-the.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb1014-configure-password-strength-and-complexity-settings-on-the-s.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5827-configure-vlan-interface-settings-on-a-sx350-sg350x-or-sx550.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5783-configure-the-link-flap-prevention-settings-on-a-switch-thro.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5306-assign-an-interface-vlan-as-an-access-or-trunk-port-on-a-swi.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb3292-configure-ipv4-static-routes-settings-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5567-configure-dynamic-host-configuration-protocol-dhcp-relay-set.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5563-configure-password-settings-on-a-switch-through-the-command.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/smb5797-configure-ip-sla-tracking-for-ipv4-static-routes-on-an-sg550.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/smb5848-configuring-lag-settings-on-a-switch-through-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5653-configure-port-to-vlan-interface-settings-on-a-switch-throug.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5584-configure-system-time-settings-on-a-switch-through-the-comma.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5110-configure-initial-settings-on-a-switch-using-the-getting-sta.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5742-configure-vlan-mapping-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb5097-configure-a-vlan-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/KMGMT-1527-How-to-import-certificate-on-350-and-550-series-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/1286-how-to-secure-boot-SX350X-SX550X.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb3202-configure-8021x-port-authentication-setting-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb4979-setting-time-range-on-200-300-500-series-managed-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/Creating_a_text_file_to_adjust_IP_settings_on_a_switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/Configuring_MAC-Based_Authentication_on_a_Switch_through_the_Command_Line_Interface.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-stackable-managed-switches/sntp-cli-switch-sx300-sx350.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/Enabling_the_Embedded_FindIT_Probe_on_the_SG350_and_SG550_Series_Switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb4041-secure-shell-ssh-server-authentication-configuration-for-ssh.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb4019-secure-shell-ssh-client-user-authentication-settings-on-sx50.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb4006-configure-secure-shell-ssh-server-authentication-settings-on.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb4004-configure-secure-shell-ssh-user-authentication-settings-on-a.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3353-management-access-method-access-profile-settings-on-sx500-se.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2869-routing-information-protocol-ripv2-properties-configuration.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3151-multiple-spanning-tree-protocol-mstp-interface-settings-conf.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2971-management-access-method-profile-rules-configuration-on-sx50.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3244-quality-of-service-qos-policy-binding-configuration-on-sx500.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2886-power-over-ethernet-poe-properties-on-sx500-series-stackable.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3295-multicast-mac-group-address-configuration-on-sx500-series-st.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb4981-port-bandwidth-control-settings-on-sg-500-series-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-managed-switches/smb4978-setting-system-time-dynamically-from-a-sntp-server-for-200-3.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3316-secure-sensitive-data-ssd-properties-on-sx500-series-stackab.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3350-secure-shell-ssh-server-user-authentication-settings-on-sx50.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3274-queue-statistics-on-sx500-series-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3101-map-differentiated-services-code-point-to-queue-on-sx500-ser.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3088-link-aggregation-control-protocol-lacp-configuration-on-sx50.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3239-quality-of-service-qos-single-policer-configuration-on-sx500.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3118-rapid-spanning-tree-protocol-rstp-interface-settings-configu.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3176-quality-of-service-qos-policy-class-maps-configuration-on-sx.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3111-password-strength-settings-on-sx500-series-stackable-switche.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3164-quality-of-service-qos-advanced-mode-global-settings-configu.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2884-routing-information-protocol-ripv2-settings-configuration-on.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2914-power-over-ethernet-poe-settings-configuration-on-sx500-seri.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2860-link-aggregation-group-lag-management-and-settings-on-sx500.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2903-management-access-authentication-setup-on-sx500-series-stack.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2844-remote-authentication-dial-in-user-service-radius-settings-o.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2945-quality-of-service-qos-basic-mode-interface-settings-configu.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2690-setup-host-mapping-on-sx500-series-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2684-manage-domain-name-system-dns-servers-on-sx500-series-stacka.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2700-quality-of-service-qos-queue-settings-on-sx500-series-stacka.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2602-ram-memory-log-status-on-sx500-series-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2535-ping-a-host-on-sx500-series-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-managed-switches/smb2062-reset-auto-voice-virtual-local-area-network-vlan-settings-on.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb5328-configure-option-125-on-a-server-to-allow-dynamic-host-confi.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5090-configure-time-range-settings-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5639-configure-simple-network-management-protocol-snmp-view-on-a.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5635-configure-global-802-1x-properties-on-a-switch-through-the-c.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5516-configure-dynamic-host-configuration-protocol-dhcp-trusted-i.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5303-configure-spanning-tree-protocol-stp-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5373-configure-virtual-local-area-network-vlan-settings-on-a-swit.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5414-configure-virtual-local-area-network-vlan-interface-settings.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5409-configure-subnet-based-virtual-local-area-network-vlan-group.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5406-configure-dynamic-host-configuration-protocol-dhcp-snooping.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb4805-configure-user-accounts-to-enhance-security-on-a-cisco-smart.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2911-configure-multicast-properties-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3096-spanning-tree-protocol-stp-interface-settings-configuration.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5544-configure-global-green-ethernet-properties-on-a-switch-throu.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb2541-configure-global-green-ethernet-properties-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3175-udp-relay-configuration-on-sx500-series-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3104-configure-ipv4-interface-in-layer-2-on-sx500-series-stackabl.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2650-spanning-tree-protocol-stp-configuration-on-sx500-series-sta.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5753-configure-snmp-notification-recipients-on-a-switch-through-t.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5816-configure-idle-session-timeout-settings-on-a-switch-through.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/smb5803-configure-vrrp-virtual-routers-on-an-sg550xg-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5810-configure-the-pnp-settings-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb5800-configure-a-static-mac-address-on-the-sx500-and-sg500x-serie.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5801-configure-ssh-server-authentication-settings-on-a-switch-thr.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/smb5793-configure-ip-sla-tracking-for-ipv4-static-routes-on-an-sg550.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5792-configure-the-pnp-settings-on-a-switch-through-the-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb5789-configure-static-mac-address-on-the-sx500-and-sg500x-series.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5784-configure-idle-session-timeout-settings-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5830-configure-gvrp-settings-on-a-switch-through-the-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5829-configure-routing-resources-on-the-switch-through-the-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5823-configure-simple-network-time-protocol-sntp-authentication-s.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5822-configure-vlan-mapping-on-a-switch-through-the-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5761-configure-multicast-properties-on-a-switch-through-the-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5820-configure-link-layer-discovery-protocol-lldp-media-endpoint.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5760-configure-stp-settings-on-a-switch-through-the-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5673-configure-protocol-based-vlan-groups-on-a-switch-through-the.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5545-configure-green-ethernet-port-settings-on-a-switch-through-t.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5729-configure-routing-resources-on-the-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5660-configure-time-range-settings-on-a-switch-through-the-comman.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5725-configure-802-1x-supplicant-credentials-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5659-configure-private-vlan-membership-settings-on-a-switch-throu.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5658-configure-subnet-based-vlan-groups-on-a-switch-through-the-c.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5657-configure-mac-based-vlan-groups-on-a-switch-through-the-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5724-configure-ipv4-static-routes-settings-on-a-switch-through-th.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5587-configure-remote-network-monitoring-rmon-alarms-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5715-configure-dhcp-trusted-interface-settings-on-a-switch-throug.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5578-configure-link-layer-discovery-protocol-lldp-port-settings-o.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5573-configure-remote-network-monitoring-rmon-history-control-set.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5571-configure-global-link-layer-discovery-protocol-lldp-settings.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5525-configure-dynamic-host-configuration-protocol-dhcp-image-upg.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/smb5707-configure-ipv4-management-interface-on-an-sg350xg-or-sg550xg.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5638-configure-simple-network-management-protocol-snmp-groups-on.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5637-configure-simple-network-management-protocol-snmp-users-on-a.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5569-configure-remote-network-monitoring-rmon-events-control-sett.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5745-configure-802-1x-supplicant-credentials-on-a-switch-through.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5515-configure-dynamic-host-configuration-protocol-dhcp-snooping.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5243-the-objective-of-this-document-is-to-show-you-how-to-enable.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5376-smart-network-application-sna-right-hand-information-panel-v.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5375-smart-network-application-sna-topology-view.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5365-configure-device-authorization-control-dac-management-throug.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5353-optimize-internet-small-computer-system-interface-iscsi-traf.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5352-configure-smart-network-application-sna-services-settings.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5351-smart-network-application-sna-overlay-view.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5334-configure-remote-authentication-dial-in-user-service-radius.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5410-configure-subnet-based-virtual-local-area-network-vlan-group.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5413-configure-private-virtual-local-area-network-vlan-settings-o.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5407-configure-port-virtual-local-area-network-vlan-membership-of.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5313-configure-internet-group-management-protocol-igmp-or-multica.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5312-monitor-and-customize-dashboard-view-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5247-configuring-smartports-on-the-sg350xg-and-sg550xg.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5098-configuring-link-aggregation-groups-on-the-sg350xg-and-sg550.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5096-configuring-energy-usage-settings-on-the-sg550xg-and-sg350xg.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5143-configuring-cos-settings-on-the-sg350xg-and-sg550xg-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5240-configure-remote-network-monitoring-rmon-history-control-set.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb4809-manage-interface-statistics-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb4414-configure-remote-network-monitoring-rmon-alarms-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb3342-configure-access-port-multicast-tv-virtual-local-area-networ.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3260-configure-port-settings-on-sx500-series-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb3332-configure-virtual-local-area-network-vlan-interface-settings.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3334-smartport-type-settings-on-sx500-series-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3347-smartport-interface-settings-on-sx500-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb3267-configure-green-ethernet-port-settings-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb3142-manage-remote-network-monitoring-rmon-statistics-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3141-configure-virtual-router-redundancy-protocol-vrrp-on-sg500x.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb3131-configure-customer-port-multicast-tv-virtual-local-area-netw.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb3179-configure-virtual-local-area-network-vlan-protocol-based-gro.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb3127-configure-remote-network-monitoring-rmon-events-control-sett.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb3173-configure-a-vlan-protocol-based-group-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb3075-configure-multicast-tv-group-to-virtual-local-area-network-v.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb3071-configure-media-access-control-mac-based-virtual-local-area.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb3074-configure-media-access-control-mac-based-virtual-local-area.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb3108-configure-simple-network-time-protocol-sntp-authentication-s.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3103-spanning-tree-protocol-stp-status-and-global-settings-on-sx5.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2889-configure-system-time-settings-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2883-configuration-of-unregistered-multicast-on-sx500-series-stac.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb3050-configure-ipv6-based-access-control-list-acl-and-access-cont.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2919-configure-time-range-for-802-1x-on-sg500x-series-stackable-s.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2878-storm-control-configuration-on-sx500-series-stackable-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2873-configure-remote-log-server-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb2840-configure-voice-virtual-local-area-network-vlan-properties-o.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2836-configure-simple-network-time-protocol-sntp-unicast-server-s.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb3025-configure-ipv4-based-access-control-list-acl-and-access-cont.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2831-configuration-of-vlan-to-multiple-spanning-tree-protocol-mst.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2827-smartport-configuration-on-sx500-series-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2776-track-and-view-aggregate-policer-statistics-on-sx500-series.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2762-configure-multiple-spanning-tree-protocol-mstp-instance-sett.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2673-configure-simple-network-management-protocol-snmp-communitie.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2584-configure-simple-network-management-protocol-snmp-trap-setti.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2767-configure-link-layer-discovery-protocol-lldp-port-settings-o.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2766-configure-simple-network-time-protocol-sntp-settings-on-a-sw.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2572-configure-link-layer-discovery-protocol-lldp-properties-on-a.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb2764-configure-dynamic-host-configuration-protocol-dhcp-image-upg.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2641-configure-simple-network-management-protocol-snmp-users-on-a.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2627-configure-simple-network-management-protocol-snmp-groups-on.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2553-stack-settings-on-sx500-series-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2754-configure-gvrp-settings-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2746-configuration-of-vlan-ingress-rate-limit-on-sx500-series-sta.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2601-configure-link-layer-discovery-protocol-lldp-media-endpoint.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2546-configuration-of-simple-network-management-protocol-snmp-eng.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2609-configure-link-layer-discovery-protocol-lldp-media-endpoint.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2009-configure-transmission-control-protocol-tcp-and-user-datagra.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb71-configure-multiple-spanning-tree-protocol-mstp-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5781-configure-bonjour-settings-on-a-switch-through-the-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5778-configure-bonjour-settings-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5819-configure-link-layer-discovery-protocol-lldp-media-endpoint.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5802-configure-the-udld-settings-on-a-switch-through-the-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5798-configure-the-udld-settings-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb2917-configure-telephony-organizationally-unique-identifiers-oui.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb2942-configure-customer-premises-equipment-cpe-to-a-virtual-local.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2697-configure-simple-network-management-protocol-snmp-notificati.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5384-manage-user-defined-tags-in-the-smart-network-application-sn.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb5301-switches-glossary-of-terms.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/smb5294-master-backup-on-the-sg550xg-and-sg350xg-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5488-manage-the-link-layer-discovery-protocol-lldp-neighbor-infor.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5423-view-power-over-ethernet-poe-statistics-and-power-savings-of.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5309-backup-and-restore-or-swap-firmware-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5107-client-secure-shell-ssh-user-authentication-for-the-sg350xg.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb4982-access-an-smb-switch-cli-using-ssh-or-telnet.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5113-arp-configuration-on-the-sg350xg-and-sg550xg.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5112-bandwidth-configuration-on-the-sg350xg-and-sg550xg-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5109-cdp-settings-on-the-sg350xg-and-sg550xg.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb2918-configure-telephony-organizationally-unique-identifiers-oui.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2896-system-settings-on-the-sx500-series-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2933-configuration-of-recurring-range-for-802-1x-on-sg500x-series.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2595-tcp-udp-services-on-sx500-series-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2567-configure-dynamic-host-configuration-protocol-dhcp-snooping.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2548-configuration-of-qos-properties-on-sx500-series-stackable-sw.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2606-configure-simple-network-management-protocol-snmp-views-on-a.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb2698-configure-simple-network-management-protocol-snmp-notificati.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb1056-activate-traceroute-configuration-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5315-bind-ingress-or-egress-access-control-list-acl-on-a-managed.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5815-configure-mld-snooping-settings-on-a-switch-through-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5814-configure-igmp-switch-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5842-configure-auto-smartport-properties-switch-through-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5836-configuring-mac-based-authentication-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5835-configure-cdp-settings-on-a-switch-through-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5824-dynamic-vlan-assignment-and-auto-smartport-configuration-on.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2958-dynamic-mac-address-management-on-the-sx500-and-sg500x-serie.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5241-configuring-the-ipv4-management-interface-on-sg350xg-and-sg5.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5102-configuring-stp-interface-settings-on-the-sg350xg-and-sg550x.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5101-configuring-stp-status-global-settings-on-the-sg350xg-and.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb2895-key-chain-creation-on-sg500x-stackable-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/General/Beginner_How_to_Download_Upgrade_firmware.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/kmgmt-1363-MSTP-Best-Practices-published.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb5512-cisco-small-business-switches-model-object-identifiers-oids.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5367-feature-support-comparison-between-the-cisco-stackable-manag.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/1238-tz-log-into-the-gui-of-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/smb5771-update-configuration-files-on-a-switch-through-the-cli.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/smb5566-upgrade-firmware-on-a-switch-through-the-command-line-interf.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3172-upgrade-and-backup-of-firmware-via-tftp-on-sx500-series-stac.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/smb5304-upgrade-firmware-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/smb5095-update-configuration-files-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-500-series-stackable-managed-switches/smb3180-upgrade-firmware-via-http-https-on-sx500-series-stackable-sw.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5106-firmware-upgrade-backup-and-image-swap-on-the-sg350xg-and-sg.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/Cisco-Business-Switching/kmgmt3607-disabling-http-https-services-in-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb993-view-the-link-layer-discovery-protocol-lldp-local-informatio.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/Cisco-Business-Switching/kmgmt-2331-glossary-of-non-bias-language.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5252-what-is-stacking.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/Creating-a-text-file-to-adjust-IP-settings-on-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-200-series-smart-switches/smb142-monitoring-dynamic-mac-addresses-on-cisco-managed-switches.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5568-view-the-optical-module-status-on-a-switch-through-the-comma.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb5559-how-to-manually-reload-or-reset-a-switch-through-the-command.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350-series-managed-switches/smb985-how-to-manually-reboot-or-reset-a-switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/kmgmt-1900-product-decoder-ring-Switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/kmgmt2932-How-to-Diagnose-Link-Flapping-On-A-Switch.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/kmgmt-2641-Smartport-Best-practices.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/kmgmt-2125-identify-disable-smartports.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-250-series-smart-switches/smb5811-cannot-add-a-new-switch-to-an-existing-stack.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/1526-Tips-to-Keep-the-ARP-Table-Available-for-DHCP-IP-Addressing.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/Removing_Devices_from_Embedded_Probe_on_the_SG350_and_SG550.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/Configuring_Switch_as_a_Unicast_Simple_Network_Time_Protocol_SNTP_Client_via_CLI.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-550x-series-stackable-managed-switches/Configuring_VRRP_Virtual_Routers_on_a_SG550XG_Switch_through_the_CLI.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5808-sg350x-sx550x-rspan-mirrored-packet-loss-when-forwarding.html",
+        "family": "switches-550x-family"
+    },
+    {
+        "url": "http://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-350x-series-stackable-managed-switches/smb5799-sg350xg-sx550x-the-switch-does-not-recognize-a-usb-flash-dr.html",
+        "family": "switches-550x-family"
+    }
+]

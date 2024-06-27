@@ -1,0 +1,10 @@
+FROM python:3.11-alpine
+
+WORKDIR /app
+
+COPY test/test_requirements.txt .
+RUN pip install -r test_requirements.txt
+
+ENV PYTHONUNBUFFERED=1
+
+ENTRYPOINT ["pytest","--cov","--cov-report=xml:coverage.xml","--junitxml=pytest-report.xml"]

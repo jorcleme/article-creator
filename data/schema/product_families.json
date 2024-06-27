@@ -1,0 +1,121 @@
+[
+    {
+        "family": "Cisco Business 110 Series Unmanaged Switches",
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/CBS110.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/switches/business-110-series-unmanaged-switches/datasheet-c78-744158.html",
+        "admin_guide_url": null,
+        "software_url": null
+    },
+    {
+        "family": "Cisco Business 220 Series Smart Switches",
+        "admin_guide_url": "https://www.cisco.com/c/en/us/td/docs/switches/lan/csbss/CBS220/Adminstration-Guide/cbs-220-admin-guide.html",
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/CBS220.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/switches/business-220-series-smart-switches/datasheet-c78-744915.html",
+        "software_url": "https://software.cisco.com/download/home/286327375"
+    },
+    {
+        "family": "Cisco Business 250 Series Smart Switches",
+        "admin_guide_url": "https://cisco.com/go/cbs250ag",
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/CBS250.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/switches/business-250-series-smart-switches/nb-06-bus250-smart-switch-ds-cte-en.html",
+        "software_url": "https://software.cisco.com/download/home/286325765"
+    },
+    {
+        "family": "Cisco Business 350 Series Managed Switches",
+        "admin_guide_url": "https://www.cisco.com/c/en/us/td/docs/switches/lan/csbms/CBS_250_350/Administration-Guide/cbs-350.html",
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/CBS350.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/switches/business-350-series-managed-switches/datasheet-c78-744156.html",
+        "software_url": "https://software.cisco.com/download/home/286325769"
+    },
+    {
+        "family": "Cisco Catalyst 1200 Series Switches",
+        "admin_guide_url": "https://www.cisco.com/c/en/us/td/docs/switches/lan/csbms/catalyst-1200-1300/AdminGuide/catalyst-1200-admin-guide.html",
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/Catalyst-1200.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-1200-series-switches/nb-06-cat1200-ser-data-sheet-cte-en.html",
+        "software_url": "https://software.cisco.com/download/home/286331065"
+    },
+    {
+        "family": "Cisco Catalyst 1300 Series Switches",
+        "admin_guide_url": "https://www.cisco.com/c/en/us/td/docs/switches/lan/csbms/catalyst-1200-1300/AdminGuide/catalyst-1300-admin-guide.html",
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/Catalyst-1300.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-1300-series-switches/nb-06-cat1300-ser-data-sheet-cte-en.html",
+        "software_url": "https://software.cisco.com/download/home/286330857"
+    },
+    {
+        "family": "Cisco 350 Series Managed Switches",
+        "admin_guide_url": "https://www.cisco.com/c/en/us/td/docs/switches/lan/csbms/350xseries/2_5_7/Administration/tesla-350-550.html",
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/switches-350-family.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/data-sheet-c78-737359.html",
+        "software_url": "https://software.cisco.com/download/home/286282036"
+    },
+    {
+        "family": "Cisco 350X Series Stackable Managed Switches",
+        "admin_guide_url": "https://www.cisco.com/c/en/us/td/docs/switches/lan/csbms/350xseries/2_5_7/Administration/tesla-350-550.html",
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/switches-350x-family.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/switches/350x-series-stackable-managed-switches/datasheet-c78-735986.html",
+        "software_url": "https://software.cisco.com/download/home/286282026"
+    },
+    {
+        "family": "Cisco 550X Series Stackable Managed Switches",
+        "admin_guide_url": "https://www.cisco.com/c/en/us/td/docs/switches/lan/csbms/350xseries/2_5_7/Administration/tesla-350-550.html",
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/switches-550x-family.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/switches/550x-series-stackable-managed-switches/datasheet-c78-735874.html",
+        "software_url": "https://software.cisco.com/download/home/286281979"
+    },
+    {
+        "family": "RV100 Product Family",
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/routers-100-family.html",
+        "software_url": "https://software.cisco.com/download/home/282413304",
+        "admin_guide_url": null,
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/routers/small-business-rv-series-routers/datasheet-listing.html"
+    },
+    {
+        "family": "RV320 Product Family",
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/routers-320-family.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/routers/rv320-dual-gigabit-wan-vpn-router/data_sheet_c78-726132.html",
+        "software_url": "https://software.cisco.com/download/home/282413304",
+        "admin_guide_url": null
+    },
+    {
+        "family": "RV340 Product Family",
+        "admin_guide_url": null,
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/routers-340-family.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/routers/small-business-rv-series-routers/datasheet-c78-742350.html",
+        "software_url": "https://software.cisco.com/download/home/282413304"
+    },
+    {
+        "family": "RV160 VPN Router",
+        "admin_guide_url": null,
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/routers-160-family.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/routers/rv160-vpn-router/datasheet-c78-741410.html",
+        "software_url": "https://software.cisco.com/download/home/282413304"
+    },
+    {
+        "family": "RV260 VPN Router",
+        "admin_guide_url": null,
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/routers-260-family.html",
+        "datasheet_url": "https://www.cisco.com/c/en/us/products/collateral/routers/rv260-vpn-router/datasheet-c78-741409.html",
+        "software_url": "https://software.cisco.com/download/home/282413304"
+    },
+    {
+        "family": "Cisco Business Wireless AC",
+        "admin_guide_url": "https://www.cisco.com/c/en/us/td/docs/wireless/access_point/csbap/CBW_Admin/Admin/en_US/b_Cisco_AP_Admin_Guide.html",
+        "datasheet_url": [
+            "https://www.cisco.com/c/en/us/products/collateral/wireless/business-100-series-access-points/smb-01-bus-140ac-ap-ds-cte-en.html",
+            "https://www.cisco.com/c/en/us/products/collateral/wireless/business-100-series-access-points/smb-01-bus-145ac-ap-ds-cte-en.html",
+            "https://www.cisco.com/c/en/us/products/collateral/wireless/business-200-series-access-points/smb-01-bus-240ac-ap-ds-cte-en.html"
+        ],
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/wireless-mesh-100-200-series.html?cachemode=refresh",
+        "software_url": "https://software.cisco.com/download/home/286324929"
+    },
+    {
+        "family": "Cisco Business Wireless AX",
+        "admin_guide_url": "https://www.cisco.com/c/en/us/td/docs/wireless/access_point/csbap/CBW_WiFi_6/Admin_Guide/b_cisco_business_wifi_6_admin_guide.html",
+        "datasheet_url": [
+            "https://www.cisco.com/c/en/us/products/collateral/wireless/business-100-series-access-points/business-access-point-ds.html",
+            "https://www.cisco.com/c/en/us/products/collateral/wireless/business-100-series-mesh-extenders/busines-mesh-extender-ds.html"
+        ],
+        "product_support_page_url": "https://www.cisco.com/c/en/us/support/smb/product-support/small-business/wireless-mesh-100-AX-series.html?cachemode=refresh",
+        "software_url": "https://software.cisco.com/download/home/286325124"
+    }
+]

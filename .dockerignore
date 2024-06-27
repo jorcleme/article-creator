@@ -1,0 +1,9 @@
+coverage.xml
+values.yaml
+target
+config
+templates
+Dockerfile*
+Chart.yaml
+sonar-project.properties
+docker-compose.yml
